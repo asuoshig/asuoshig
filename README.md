@@ -10,15 +10,15 @@
 <img align="center" alt="a-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg">
 </div> <br>
 
-<h2> também tenho conhecimentos sobre frameworks, tais como:</h2>
+<h2>frameworks:</h2>
 <div style="display: inline_block">
 <img align="center" alt="a-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">
 <img align="center" alt="a-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg">
  <img align="center" alt="a-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
 </div> <br>
 
-<h2>minhas redes sociais para contato:</h2>
 
+..
 <div> <a href="https://www.instagram.com/geoou_of/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href ="mailto:gihsousa205@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div> <br>
