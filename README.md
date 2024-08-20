@@ -1,4 +1,4 @@
-<h2> olá! me chamo Geovana, sou estudante de desenvolvimento web e mobile. Tenho conhecimento sobre as seguintes linguagens: </h2>
+<h2> Olá! me chamo Geovana, sou estudante de desenvolvimento web e mobile. Tenho conhecimento sobre as seguintes linguagens: </h2>
  <div style="display: inline_block"><br>
  
   <img align="center" alt="a-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
